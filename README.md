@@ -75,13 +75,7 @@ npm start
 > Frontend runs on [http://localhost:3000](http://localhost:3000)
 > Backend runs on [http://localhost:5000](http://localhost:5000)
 
----
 
-## ✨ Preview
-
-![Chat UI Preview](https://via.placeholder.com/900x400.png?text=Gemini+Chatbox+Preview)
-
----
 
 ## 🔐 Environment Setup
 
